@@ -36,21 +36,21 @@ A simple Flutter app that fetches and displays articles from a public API. Users
 
 The codebase follows a clean and modular architecture with separation of concerns between UI, data, and logic layers:
 
-lib/
-├── model/
-│ └── post_model.dart # Data model for articles/posts
-├── network/
-│ ├── api_manager.dart # Handles actual HTTP requests
-│ └── repository/
-│ ├── post_repository.dart # Abstract class defining repository methods
-│ └── post_repository_impl.dart # Abstract method body implementation of the repository
-├── share_preference/
-│ └── base_preference.dart # Set of secure preference
-│ └── post_preference.dart # Manage user favourite posts 
-├── ui/
-│ ├── post_screen.dart # Displays list of articles with search and refresh
-│ ├── post_detail_screen.dart # Displays full article details
-│ └── favorite_post_screen.dart # Displays user's favorite posts
-├── widgets/
-│ └── post_card_view.dart # Reusable UI widget for displaying post preview
-└── main.dart # App entry point and routing setup
+lib/  
+├── model/  
+│ └── post_model.dart # Data model for articles/posts  
+├── network/  
+│ ├── api_manager.dart # Handles actual HTTP requests  
+│ └── repository/  
+│ ├── post_repository.dart # Abstract class defining repository methods  
+│ └── post_repository_impl.dart # Abstract method body implementation of the repository  
+├── share_preference/  
+│ └── base_preference.dart # Set of secure preference  
+│ └── post_preference.dart # Manage user favourite posts   
+├── ui/  
+│ ├── post_screen.dart # Displays list of articles with search and refresh  
+│ ├── post_detail_screen.dart # Displays full article details  
+│ └── favorite_post_screen.dart # Displays user's favorite posts  
+├── widgets/  
+│ └── post_card_view.dart # Reusable UI widget for displaying post preview  
+└── main.dart # App entry point and routing setup  
