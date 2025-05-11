@@ -57,7 +57,10 @@ The codebase follows a clean and modular architecture with separation of concern
 
 # Screenshots
 
-![Post Screen](https://github.com/user-attachments/assets/76d1e725-0b62-4e3e-89cc-3884f630ad74)  ![Posts](https://github.com/user-attachments/assets/1dfeea02-5d44-4769-a5a6-faa00f18b0f4)
+![Post Screen](https://github.com/user-attachments/assets/76d1e725-0b62-4e3e-89cc-3884f630ad74)      ![Posts](https://github.com/user-attachments/assets/1dfeea02-5d44-4769-a5a6-faa00f18b0f4)
 
+![Post Detail Screen](https://github.com/user-attachments/assets/834c2665-4b44-4b6b-9197-930db6d7fc6d)
+
+![Favourite Post Screen](https://github.com/user-attachments/assets/a2a39989-d948-4395-b683-e4fc35975123)
 
 
