@@ -54,3 +54,6 @@ The codebase follows a clean and modular architecture with separation of concern
 ├── **widgets**/  
 │ └── **post_card_view.dart** # Reusable UI widget for displaying post preview  
 └── **main.dart** # App entry point and routing setup  
+
+# Screenshots
+![Post Screen](https://github.com/user-attachments/assets/81d32256-3044-45c2-87c9-4d7d41bcd100)   ![Post Screen With Search](https://github.com/user-attachments/assets/d8aa08eb-2e44-48f3-a9a8-784af279e11d)
