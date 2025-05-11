@@ -56,4 +56,8 @@ The codebase follows a clean and modular architecture with separation of concern
 └── **main.dart** # App entry point and routing setup  
 
 # Screenshots
-![Post Screen](https://github.com/user-attachments/assets/81d32256-3044-45c2-87c9-4d7d41bcd100)   ![Post Screen With Search](https://github.com/user-attachments/assets/d8aa08eb-2e44-48f3-a9a8-784af279e11d)
+
+![Post Screen](https://github.com/user-attachments/assets/76d1e725-0b62-4e3e-89cc-3884f630ad74)  ![Posts](https://github.com/user-attachments/assets/1dfeea02-5d44-4769-a5a6-faa00f18b0f4)
+
+
+
